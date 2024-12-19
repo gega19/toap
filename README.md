@@ -9,10 +9,12 @@ Toap es una aplicación Flutter diseñada para ayudarte a gestionar tus tareas d
 
 ## Capturas de Pantalla
 
-![Home](assets/readme/ref1.png)
-![Agregar tarea](assets/readme/ref2.png)
-![Home con tarea](assets/readme/ref3.png)
-![Filtros](assets/readme/ref4.png)
+<div style="display: flex; flex-wrap: wrap;">
+  <img src="assets/readme/ref1.png" alt="Home" style="width: 24%; margin-right: 1%;" />
+  <img src="assets/readme/ref2.png" alt="Agregar tarea" style="width: 24%; margin-right: 1%;" />
+  <img src="assets/readme/ref3.png" alt="Home con tarea" style="width: 24%; margin-right: 1%;" />
+  <img src="assets/readme/ref4.png" alt="Filtros" style="width: 24%;" />
+</div>
 
 ## Requisitos
 
