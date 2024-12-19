@@ -20,5 +20,5 @@ Toap es una aplicación Flutter diseñada para ayudarte a gestionar tus tareas d
 
 1. Clona el repositorio del proyecto:
    ```bash
-   git clone https://github.com/tu-usuario/toap.git
+   git clone git@github.com:gega19/toap.git
    ```
