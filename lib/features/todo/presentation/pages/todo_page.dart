@@ -35,6 +35,7 @@ class TodoPage extends StatelessWidget {
                         itemBuilder: (context, index) {
                           final task = state.filteredTasks[index];
                           return CardTodo(
+                            key: Key(task.id),
                             task: task,
                             onChanged: () {
                               context

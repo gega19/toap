@@ -26,6 +26,7 @@ class _FilterModalState extends State<FilterModal> {
       title: "Filtrar",
       icon: Icons.tune,
       child: Column(
+        crossAxisAlignment: CrossAxisAlignment.start,
         children: [
           const Text(
             'Filtrar por fecha',
